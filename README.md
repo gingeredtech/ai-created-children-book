@@ -1,2 +1,3 @@
-# ai-painted-advent-calendar
-Advent calendar App using open https://api.deepai.org to (pre) generate 25 xmas images
+# ai-created children story book
+
+Generate and display a story written and illustrated with open ai ChatGPT and Dall-E
