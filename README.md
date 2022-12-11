@@ -1,2 +1,2 @@
-# ai-created-children-book
-Using ai to write and illustrate a children's book
+# ai-painted-advent-calendar
+Advent calendar App using open https://api.deepai.org to (pre) generate 25 xmas images
